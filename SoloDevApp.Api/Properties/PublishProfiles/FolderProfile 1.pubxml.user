@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\source\BE_fiverr\SoloDevApp.Api\bin/Release/netcoreapp2.1/publish</_PublishTargetUrl>
+    <History>True|2022-09-21T08:21:02.3179923Z;True|2022-09-21T15:20:56.5189253+07:00;True|2022-09-21T14:52:32.0405832+07:00;True|2022-09-21T14:51:53.4370583+07:00;True|2022-09-15T15:39:46.3973983+07:00;True|2022-09-15T15:39:42.4393102+07:00;True|2022-09-15T15:11:20.4062082+07:00;True|2022-09-15T15:11:16.7729638+07:00;True|2022-09-07T14:00:17.8216668+07:00;True|2022-09-05T16:14:27.3079225+07:00;True|2022-08-27T20:42:56.5821884+07:00;</History>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,69 @@
+﻿<Properties StartupConfiguration="{747AF7C0-35C8-46B6-9674-9583F1242B75}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/macbookpro/Documents/source/tiki/SoloDevApp.Service/Services/FileService.cs" relfile="SoloDevApp.Service/Services/FileService.cs" line="40" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SoloDevApp.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SoloDevApp.Service/Helpers/FuncUtilities.cs">
+    <Files>
+      <File FileName="SoloDevApp.Service/Services/NguoiDungService.cs" Line="47" Column="37" />
+      <File FileName="SoloDevApp.Service/Services/CuaHang/CuaHangService.cs" Line="64" Column="1" />
+      <File FileName="SoloDevApp.Api/Controllers/NguoiDungController.cs" Line="83" Column="47" />
+      <File FileName="SoloDevApp.Service/Services/FileService.cs" Line="72" Column="1" />
+      <File FileName="SoloDevApp.Service/Services/SanPhamService.cs" Line="59" Column="46" />
+      <File FileName="SoloDevApp.Api/Controllers/SanPhamController.cs" Line="62" Column="1" />
+      <File FileName="SoloDevApp.Service/Helpers/FuncUtilities.cs" Line="201" Column="75" />
+      <File FileName="SoloDevApp.Api/Program.cs" Line="10" Column="1" />
+      <File FileName="SoloDevApp.Api/Filters/ApiKeyAuthAttribute.cs" Line="1" Column="1" />
+      <File FileName="SoloDevApp.Api/Filters/AuthorizationHeaderParameterOperationFilter.cs.cs" Line="26" Column="18" />
+      <File FileName="SoloDevApp.Api/Middlewares/ExceptionMiddlewareExtension.cs" Line="1" Column="1" />
+      <File FileName="SoloDevApp.Api/Filters/ValidateModelFilter.cs" Line="1" Column="1" />
+      <File FileName="SoloDevApp.Service/Helpers/JwtReader.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SoloDevApp" expanded="True">
+            <Node name="SoloDevApp.Api" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Filters" expanded="True" />
+              <Node name="Middlewares" expanded="True" />
+            </Node>
+            <Node name="SoloDevApp.Repository" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="CuaHang" expanded="True" />
+              </Node>
+              <Node name="Repositories" expanded="True">
+                <Node name="CuaHang" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="SoloDevApp.Service" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+                <Node name="ProjectDependencies" expanded="True" />
+                <Node name="SdkDependencies" expanded="True" />
+              </Node>
+              <Node name="AutoMapper" expanded="True" />
+              <Node name="Constants" expanded="True" />
+              <Node name="Helpers" expanded="True">
+                <Node name="FuncUtilities.cs" selected="True" />
+              </Node>
+              <Node name="Infrastructure" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="CuaHang" expanded="True" />
+              </Node>
+              <Node name="ViewModels" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

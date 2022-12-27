@@ -1,0 +1,78 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/user/Documents/Workspace/CyberSoft/CyberLearn_Backend/SoloDevApp/SoloDevApp/SoloDevApp.Api/SoloDevApp.Api.csproj",
+    "projectName": "SoloDevApp.Api",
+    "projectPath": "/Users/user/Documents/Workspace/CyberSoft/CyberLearn_Backend/SoloDevApp/SoloDevApp/SoloDevApp.Api/SoloDevApp.Api.csproj",
+    "outputPath": "/Users/user/Documents/Workspace/CyberSoft/CyberLearn_Backend/SoloDevApp/SoloDevApp/SoloDevApp.Api/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.1"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp2.1": {
+        "projectReferences": {
+          "/Users/user/Documents/Workspace/CyberSoft/CyberLearn_Backend/SoloDevApp/SoloDevApp/SoloDevApp.Repository/SoloDevApp.Repository.csproj": {
+            "projectPath": "/Users/user/Documents/Workspace/CyberSoft/CyberLearn_Backend/SoloDevApp/SoloDevApp/SoloDevApp.Repository/SoloDevApp.Repository.csproj"
+          },
+          "/Users/user/Documents/Workspace/CyberSoft/CyberLearn_Backend/SoloDevApp/SoloDevApp/SoloDevApp.Service/SoloDevApp.Service.csproj": {
+            "projectPath": "/Users/user/Documents/Workspace/CyberSoft/CyberLearn_Backend/SoloDevApp/SoloDevApp/SoloDevApp.Service/SoloDevApp.Service.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.1": {
+      "dependencies": {
+        "Microsoft.AspNetCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.1, )",
+          "autoReferenced": true
+        },
+        "Microsoft.AspNetCore.Razor.Design": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.2, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.0, )",
+          "autoReferenced": true
+        },
+        "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+          "target": "Package",
+          "version": "[2.1.10, )"
+        },
+        "Swashbuckle.AspNetCore": {
+          "target": "Package",
+          "version": "[4.0.1, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true,
+      "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+    }
+  }
+}
